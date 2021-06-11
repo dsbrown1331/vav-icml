@@ -1,0 +1,24 @@
+name: vav 
+channels:
+  - defaults
+dependencies:
+  - theano
+  - pymc
+  - python=3.8
+  - pip
+  - pip:
+    - mujoco_py
+    - gym
+    - pyopengl
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - scikit-learn
+    - scipy
+    - argh
+    - fire
+    - joblib
+    - mypy
+    - pylint
+    - black
