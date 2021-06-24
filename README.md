@@ -4,7 +4,7 @@
 Daniel S. Brown*, Jordan Schneider*, Anca D. Dragan, and Scott Niekum. (* Equal Contribution)
 
 <p align=center>
-  <img src='assets/vav_pipeline.PNG' width=600>
+  <img src='assets/vav_pipeline.png' width=800>
 </p>
 
 <p align="center">
